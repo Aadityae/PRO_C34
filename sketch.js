@@ -41,9 +41,9 @@ boxes4 = new Box(700,100,70,70)
 boxes5 = new Box(700,100,70,70)
 boxes6 = new Box(700,100,70,70)
 boxes7 = new Box(700,100,70,70)
-boxes8 = new Box(1000,100,70,70)
-boxes9 = new Box(1000,100,70,70)
-boxes10 = new Box(1000,100,70,70)
+boxes8 = new Box(800,100,70,70)
+boxes9 = new Box(800,100,70,70)
+boxes10 = new Box(800,100,70,70)
 
 }
 
@@ -62,17 +62,16 @@ function draw() {
   box9.display()
   box10.display()
 
-  boxes1.display()
-  boxes2.display()
-  boxes3.display()
-  boxes4.display()
-  boxes5.display()
-  boxes6.display() 
-  
-  boxes7.display()
-  boxes8.display()
-  boxes9.display()
-  boxes10.display()
+  boxes1.display();
+  boxes2.display();
+  boxes3.display();
+  boxes4.display();
+  boxes5.display();
+  boxes6.display();
+  boxes7.display();
+  boxes8.display();
+  boxes9.display();
+  boxes10.display();
   
 
 
